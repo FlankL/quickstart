@@ -20,4 +20,8 @@ public class QuickCreateController {
     public String hello(){
         return "hello"+name;
     }
+
+    public void git(){
+        System.out.println("second commit");
+    }
 }
